@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1733779199873,
+  "timestamp": 1734383986388,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1416,8 +1416,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.4.0",
-      "version_code": 240,
+      "version": "2.5.0",
+      "version_code": 250,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "metadata": {
@@ -1427,6 +1427,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734285048000,
+          "version": "2.5.0 (250)",
+          "version_code": 250,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/250.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/250.md"
+        },
         {
           "timestamp": 1709485366000,
           "version": "2.4.0 (240)",

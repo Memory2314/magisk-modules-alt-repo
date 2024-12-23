@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1734383986388,
+  "timestamp": 1734988631479,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1082,8 +1082,8 @@
     {
       "id": "font-koruri-n",
       "name": "Koruri Font",
-      "version": "v28",
-      "version_code": 28,
+      "version": "v29",
+      "version_code": 29,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "metadata": {
@@ -1093,6 +1093,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734613350000,
+          "version": "v29 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-koruri-n/29.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-koruri-n/29.md"
+        },
         {
           "timestamp": 1711254247000,
           "version": "v28 (28)",
@@ -1105,8 +1112,8 @@
     {
       "id": "font-mejiro-oshi",
       "name": "Mejiro Font",
-      "version": "v22",
-      "version_code": 22,
+      "version": "v23",
+      "version_code": 23,
       "author": "AndroPlus",
       "description": "Mejiro font patch for Japanese users.",
       "metadata": {
@@ -1116,6 +1123,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734613205000,
+          "version": "v23 (23)",
+          "version_code": 23,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-mejiro-oshi/23.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-mejiro-oshi/23.md"
+        },
         {
           "timestamp": 1711254365000,
           "version": "v22 (22)",
@@ -1171,8 +1185,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.2",
-      "version_code": 19,
+      "version": "v4.2.6",
+      "version_code": 23,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device – no entry for malware, bugs, or party crashers!",
       "metadata": {
@@ -1180,6 +1194,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734988620055,
+          "version": "v4.2.6 (23)",
+          "version_code": 23,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/23.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/23.md"
+        },
         {
           "timestamp": 1727873596479,
           "version": "v4.2.2 (19)",
@@ -1416,8 +1437,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.5.0",
-      "version_code": 250,
+      "version": "2.5.2",
+      "version_code": 252,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "metadata": {
@@ -1427,6 +1448,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
       },
       "versions": [
+        {
+          "timestamp": 1734388190000,
+          "version": "2.5.2 (252)",
+          "version_code": 252,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/252.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/252.md"
+        },
         {
           "timestamp": 1734285048000,
           "version": "2.5.0 (250)",

@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1736198283411,
+  "timestamp": 1736803066852,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1194,6 +1194,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1736803052787,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
+        },
         {
           "timestamp": 1736198270495,
           "version": "v5.0.3 (29)",

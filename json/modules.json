@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1738012722209,
+  "timestamp": 1738617497881,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1195,6 +1195,13 @@
       },
       "versions": [
         {
+          "timestamp": 1738617485909,
+          "version": "v5.0.3 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
+        },
+        {
           "timestamp": 1738012707799,
           "version": "v5.0.3 (29)",
           "version_code": 29,
@@ -1228,13 +1235,6 @@
           "version_code": 29,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1734988620055,
-          "version": "v4.2.6 (23)",
-          "version_code": 23,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/23.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/23.md"
         }
       ]
     },

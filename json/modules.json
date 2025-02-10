@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1738617497881,
+  "timestamp": 1739222310911,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1179,62 +1179,6 @@
           "version_code": 10,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_proc_monitor/10.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "Malwack",
-      "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.3",
-      "version_code": 29,
-      "author": "Person0z",
-      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
-      "metadata": {
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1738617485909,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1738012707799,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1737407838205,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1736803052787,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1736198270495,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
-        },
-        {
-          "timestamp": 1735593505305,
-          "version": "v5.0.3 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/29.md"
         }
       ]
     },

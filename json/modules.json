@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1744060812297,
+  "timestamp": 1744665599249,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1202,6 +1202,13 @@
       },
       "versions": [
         {
+          "timestamp": 1744665581028,
+          "version": "v5.0.4 (30)",
+          "version_code": 30,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/30.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/30.md"
+        },
+        {
           "timestamp": 1744060801918,
           "version": "v5.0.4 (30)",
           "version_code": 30,
@@ -1807,8 +1814,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.7.3",
-      "version_code": 74,
+      "version": "v1.7.5",
+      "version_code": 76,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
       "metadata": {
@@ -1818,6 +1825,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1744665592202,
+          "version": "v1.7.5 (76)",
+          "version_code": 76,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/76.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/76.md"
+        },
         {
           "timestamp": 1744060805168,
           "version": "v1.7.3 (74)",
@@ -1852,13 +1866,6 @@
           "version_code": 70,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/70.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/70.md"
-        },
-        {
-          "timestamp": 1741036834941,
-          "version": "v1.6.8 (69)",
-          "version_code": 69,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/69.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/69.md"
         }
       ]
     },

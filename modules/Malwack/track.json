@@ -9,6 +9,13 @@
   },
   "versions": [
     {
+      "timestamp": 1744665581028,
+      "version": "v5.0.4 (30)",
+      "version_code": 30,
+      "zip_file": "30.zip",
+      "changelog": "30.md"
+    },
+    {
       "timestamp": 1744060801918,
       "version": "v5.0.4 (30)",
       "version_code": 30,
@@ -42,13 +49,6 @@
       "version_code": 30,
       "zip_file": "30.zip",
       "changelog": "30.md"
-    },
-    {
-      "timestamp": 1741036826645,
-      "version": "v5.0.3 (29)",
-      "version_code": 29,
-      "zip_file": "29.zip",
-      "changelog": "29.md"
     }
   ]
 }

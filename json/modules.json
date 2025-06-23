@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1750108923110,
+  "timestamp": 1750713658843,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1335,16 +1335,23 @@
     {
       "id": "oneplus-8series-9r-camera-unlocker",
       "name": "OnePlus 8 Series & 9R Camera Unlocker",
-      "version": "v1.2",
-      "version_code": 1200,
-      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
-      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "version": "v1.3",
+      "version_code": 1300,
+      "author": "shadowstep @ XDA",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R.",
       "metadata": {
         "license": "GPL-2.0",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues"
       },
       "versions": [
+        {
+          "timestamp": 1750658979000,
+          "version": "v1.3 (1300)",
+          "version_code": 1300,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplus-8series-9r-camera-unlocker/1300.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplus-8series-9r-camera-unlocker/1300.md"
+        },
         {
           "timestamp": 1668837132000,
           "version": "v1.2 (1200)",
@@ -1758,8 +1765,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.8.6",
-      "version_code": 87,
+      "version": "v1.8.7",
+      "version_code": 88,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital protector: This Magisk module blocks ads and malware, keeping your apps safe and your browsing smooth. For support or discussion, join our community on Telegram.",
       "metadata": {
@@ -1769,6 +1776,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1750713650811,
+          "version": "v1.8.7 (88)",
+          "version_code": 88,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/88.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/88.md"
+        },
         {
           "timestamp": 1750108909187,
           "version": "v1.8.6 (87)",
@@ -1803,13 +1817,6 @@
           "version_code": 81,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/81.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/81.md"
-        },
-        {
-          "timestamp": 1746480000706,
-          "version": "v1.7.9 (80)",
-          "version_code": 80,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/80.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/80.md"
         }
       ]
     },

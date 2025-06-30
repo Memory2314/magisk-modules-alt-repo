@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1750713658843,
+  "timestamp": 1751318453807,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1765,8 +1765,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.8.7",
-      "version_code": 88,
+      "version": "v1.8.8",
+      "version_code": 89,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Your digital protector: This Magisk module blocks ads and malware, keeping your apps safe and your browsing smooth. For support or discussion, join our community on Telegram.",
       "metadata": {
@@ -1776,6 +1776,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1751318447192,
+          "version": "v1.8.8 (89)",
+          "version_code": 89,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/89.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/89.md"
+        },
         {
           "timestamp": 1750713650811,
           "version": "v1.8.7 (88)",
@@ -1810,13 +1817,6 @@
           "version_code": 82,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/82.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/82.md"
-        },
-        {
-          "timestamp": 1747689602971,
-          "version": "v1.8.0 (81)",
-          "version_code": 81,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/81.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/81.md"
         }
       ]
     },

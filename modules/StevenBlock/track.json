@@ -2,12 +2,19 @@
   "module": {
     "id": "StevenBlock",
     "name": "StevenBlock | Anti-Malware & Ad Blocker",
-    "version": "v1.9.9",
-    "version_code": 100,
+    "version": "v2.0.0",
+    "version_code": 101,
     "author": "𝗛𝗼𝗹𝗶",
     "description": "Advanced ad blocker with 4 protection levels. Interactive installation, DNS-level filtering."
   },
   "versions": [
+    {
+      "timestamp": 1757366369040,
+      "version": "v2.0.0 (101)",
+      "version_code": 101,
+      "zip_file": "101.zip",
+      "changelog": "101.md"
+    },
     {
       "timestamp": 1756761484513,
       "version": "v1.9.9 (100)",
@@ -42,13 +49,6 @@
       "version_code": 96,
       "zip_file": "96.zip",
       "changelog": "96.md"
-    },
-    {
-      "timestamp": 1753737713344,
-      "version": "v1.9.4 (95)",
-      "version_code": 95,
-      "zip_file": "95.zip",
-      "changelog": "95.md"
     }
   ]
 }

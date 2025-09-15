@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1757366379317,
+  "timestamp": 1757971129033,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1765,8 +1765,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v2.0.0",
-      "version_code": 101,
+      "version": "v2.0.1",
+      "version_code": 102,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Advanced ad blocker with 4 protection levels. Interactive installation, DNS-level filtering.",
       "metadata": {
@@ -1776,6 +1776,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1757971114899,
+          "version": "v2.0.1 (102)",
+          "version_code": 102,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.md"
+        },
         {
           "timestamp": 1757366369040,
           "version": "v2.0.0 (101)",
@@ -1810,13 +1817,6 @@
           "version_code": 97,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/97.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/97.md"
-        },
-        {
-          "timestamp": 1754342630839,
-          "version": "v1.9.5 (96)",
-          "version_code": 96,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/96.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/96.md"
         }
       ]
     },

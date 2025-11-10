@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1762204985854,
+  "timestamp": 1762809724290,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1765,8 +1765,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v2.0.6",
-      "version_code": 107,
+      "version": "v2.0.7",
+      "version_code": 108,
       "author": "𝗛𝗼𝗹𝗶",
       "description": "Advanced ad blocker with 4 protection levels. Interactive installation, DNS-level filtering.",
       "metadata": {
@@ -1776,6 +1776,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1762809711021,
+          "version": "v2.0.7 (108)",
+          "version_code": 108,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/108.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/108.md"
+        },
         {
           "timestamp": 1762204971293,
           "version": "v2.0.6 (107)",
@@ -1810,21 +1817,14 @@
           "version_code": 102,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.md"
-        },
-        {
-          "timestamp": 1757366369040,
-          "version": "v2.0.0 (101)",
-          "version_code": 101,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/101.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/101.md"
         }
       ]
     },
     {
       "id": "supl-replacer",
       "name": "A-GPS SUPL replacer",
-      "version": "v2.2.1",
-      "version_code": 5,
+      "version": "v2.3.1",
+      "version_code": 7,
       "author": "PlqnK, D3SOX",
       "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
       "metadata": {
@@ -1833,6 +1833,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues"
       },
       "versions": [
+        {
+          "timestamp": 1762425455000,
+          "version": "v2.3.1 (7)",
+          "version_code": 7,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/supl-replacer/7.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/supl-replacer/7.md"
+        },
         {
           "timestamp": 1678882493000,
           "version": "v2.2.1 (5)",

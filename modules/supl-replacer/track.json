@@ -2,12 +2,19 @@
   "module": {
     "id": "supl-replacer",
     "name": "A-GPS SUPL replacer",
-    "version": "v2.2.1",
-    "version_code": 5,
+    "version": "v2.3.1",
+    "version_code": 7,
     "author": "PlqnK, D3SOX",
     "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf."
   },
   "versions": [
+    {
+      "timestamp": 1762425455000,
+      "version": "v2.3.1 (7)",
+      "version_code": 7,
+      "zip_file": "7.zip",
+      "changelog": "7.md"
+    },
     {
       "timestamp": 1678882493000,
       "version": "v2.2.1 (5)",

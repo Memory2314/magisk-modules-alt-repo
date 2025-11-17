@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1762809724290,
+  "timestamp": 1763414486804,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1765,10 +1765,10 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v2.0.7",
-      "version_code": 108,
+      "version": "v2.0.8",
+      "version_code": 109,
       "author": "𝗛𝗼𝗹𝗶",
-      "description": "Advanced ad blocker with 4 protection levels. Interactive installation, DNS-level filtering.",
+      "description": "Advanced ad blocker with 3 protection levels. Interactive installation, DNS-level filtering.",
       "metadata": {
         "license": "GPL-2.0",
         "homepage": "https://github.com/mikropsoft/StevenBlock",
@@ -1776,6 +1776,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1763414475973,
+          "version": "v2.0.8 (109)",
+          "version_code": 109,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/109.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/109.md"
+        },
         {
           "timestamp": 1762809711021,
           "version": "v2.0.7 (108)",
@@ -1810,13 +1817,6 @@
           "version_code": 103,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/103.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/103.md"
-        },
-        {
-          "timestamp": 1757971114899,
-          "version": "v2.0.1 (102)",
-          "version_code": 102,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/102.md"
         }
       ]
     },
